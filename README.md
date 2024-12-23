@@ -12,4 +12,7 @@ https://www.bilibili.com/opus/1013653427665764407
 PCB基于Onstep官网的MaxESP4精简设计仅保留双轴电机 更改为Type-C数据接口  
 程序基于OnstepX 需要基于原版OnstepX修改MaxESP4 的引脚定义  
 驱动使用TMC2209 UART版本 最大细分256  
+Onstep官方站：  
+https://onstep.groups.io/g/main  
+
 
