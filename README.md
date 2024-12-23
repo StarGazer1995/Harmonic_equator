@@ -1,5 +1,6 @@
 # Harmonic_equator  
 Harmonic_equator Based on OnsetpX  
+基于OnsteX控制的轻量化14-100双轴谐波赤道仪  
 由于GitHub不能上传大文件，模型上传于拓竹的MakerWorld  
 模型地址：  
 https://makerworld.com.cn/zh/models/751859#profileId-716504  
