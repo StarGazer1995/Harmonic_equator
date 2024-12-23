@@ -16,3 +16,4 @@ Onstep官方站：
 https://onstep.groups.io/g/main  
 
 
+！！！本开源不可用于商业目的！！！  
