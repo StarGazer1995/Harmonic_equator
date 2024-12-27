@@ -16,5 +16,12 @@ PCB基于Onstep官网的MaxESP4精简设计仅保留双轴电机 更改为Type-C
 Onstep官方站：  
 https://onstep.groups.io/g/main  
 
+关于程序 在/Firmware文件夹内:
+Firmware mods from OnstepX  
+Replace The Pins.MaxESP4.h to the Raw OneStep Path ：\OnStepX\src\pinmaps  
+Modifing The Config.h and Extended.config.h or just Replace
+基于OnstepX修改
+请将Pins.MaxESP4.h替换到OnstepX的目录：：\OnStepX\src\pinmaps  
+自行修改The Config.h 和 Extended.config.h 或者直接替换使用
 
 ！！！本开源不可用于商业目的！！！  
