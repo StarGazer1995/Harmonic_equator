@@ -1,0 +1,3 @@
+Firmware mods from OnstepX  
+Replace The Pins.MaxESP4.h to the Raw OneStep Path ：\OnStepX\src\pinmaps  
+Modifing The Config.h and Extended.config.h or just Replace
