@@ -1,0 +1,3 @@
+[submodule "external/OnStepX"]
+	path = external/OnStepX
+	url = https://github.com/StarGazer1995/OnStepX
